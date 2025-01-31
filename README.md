@@ -9,11 +9,10 @@
 
 ## Revolutionizing AI with Seamless Data Integration.
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Currently working on Qyver, an AI start-up powering advanced search, smart recommendations, and high-performance analytics through structured and unstructured data integration.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2025 Goals: Make Qyver easily accessible to the main audience
+- ⚡ Fun fact: I love to draw and write poems
 
 ### Links:
 
@@ -26,7 +25,6 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 [![website](./img/terminal-light.svg)](https://github.com/qyverlabs/qyver#gh-light-mode-only)
 [![website](./img/terminal-dark.svg)](https://github.com/qyverlabs/qyver#gh-dark-mode-only)
 
