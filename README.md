@@ -1,14 +1,23 @@
 # Welcome to QyverLabs 👋 
 ![QyverLogo](./img/qyverlabsbannergithub.png)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/qyverlabs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fqyverlabs&screen_name=QyverLabs)
+[![Twitter Follow](https://img.shields.io/twitter/follow/qyverlabs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fqyverlabs&screen_name=codeSTACKr)
 
-## Revolutionizing AI with Seamless Data Integration.
+## Revolutionizing AI with Seamless Data Integration
 
-- 🌱 Currently working on Qyver, an AI start-up powering advanced search, smart recommendations, and high-performance analytics through structured and unstructured data integration.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Make Qyver easily accessible to the main audience
-- ⚡ Fun fact: I love to draw and write poems
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <ul>
+      <li>🌱 Currently working on Qyver, an AI start-up powering advanced search, smart recommendations, and high-performance analytics through structured and unstructured data integration.</li>
+      <li>👯 I’m looking to collaborate with other content creators</li>
+      <li>🥅 2025 Goals: Make Qyver easily accessible to the main audience</li>
+      <li>⚡ Fun fact: I love to draw and write poems</li>
+    </ul>
+  </div>
+  <div style="flex: 0; margin-left: 20px;">
+    <img src="./img/your-profile-photo.png" alt="Profile Photo" width="200" style="border-radius: 10px;"/>
+  </div>
+</div>
 
 ### Links:
 
