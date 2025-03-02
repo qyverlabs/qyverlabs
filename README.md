@@ -11,9 +11,7 @@
     <td>
       <ul>
         <li>🌱 Currently working on Qyver, an AI start-up powering advanced search, smart recommendations, and high-performance analytics through structured and unstructured data integration.</li>
-        <li>👯 I’m looking to collaborate with other content creators</li>
-        <li>🥅 2025 Goals: Make Qyver easily accessible to the main audience</li>
-        <li>⚡ Fun fact: I love to draw and write poems</li>
+        <li>⚡ 2025 Goals: Make Qyver easily accessible to the main audience</li>
       </ul>
     </td>
 
@@ -57,13 +55,6 @@
 <br>
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="QyverLabs' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qyverlabs&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
 
 [website]: https://qyverlabs.com
 [twitter]: https://x.com/qyverlabs
